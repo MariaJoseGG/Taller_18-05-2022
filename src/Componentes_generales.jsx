@@ -5,8 +5,8 @@ import {Boton} from './Boton';
 export function Aplicacion() {
     return (
         <React.Fragment>
-            <Footer/>
             <Boton/>
+            <Footer/>
         </React.Fragment>
     )
 }
