@@ -1,3 +1,15 @@
+# Integrantes
+
+Tatiana Alexandra Betancurth Paiba
+
+Dayane Michelle Ceballos Cardona
+
+María José Giraldo Gutiérrez
+
+### Nota
+
+El trabajo final se encuentra en la rama develop
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
