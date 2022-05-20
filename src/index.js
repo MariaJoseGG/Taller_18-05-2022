@@ -1,10 +1,11 @@
-import React from 'react';
-import {Head} from './Head';
+import React from "react";
+import ReactDOM from "react-dom";
+import {Aplicacion} from './Componentes_generales';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-export function Aplicacion(){
-    return(
-        <React.Fragment>
-            <Head/>
-        </React.Fragment>
-    )
-}
+ReactDOM.render(
+    <React.StrictMode>
+        <Aplicacion />
+    </React.StrictMode>,
+    document.getElementById('root')
+);
