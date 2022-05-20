@@ -6,9 +6,9 @@ import {Formulario} from './Formulario';
 export function Aplicacion() {
     return (
         <React.Fragment>
+            <Formulario/>
             <Boton/>
             <Footer/>
-            <Formulario/>
         </React.Fragment>
     )
 }
