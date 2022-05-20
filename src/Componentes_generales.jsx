@@ -5,6 +5,7 @@ export function Aplicacion(){
     return(
         <React.Fragment>
             <Tablita/>
+            <Tablita/>
         </React.Fragment>
     )
 }
